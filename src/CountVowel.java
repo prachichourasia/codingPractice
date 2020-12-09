@@ -4,6 +4,7 @@ public class CountVowel
 {
 	public static void main(String[] args)
 	{
+		
 		String s="prachi chourasia is ratnaparkhi and is not chourasia";
 		//String[] s1=s.split(" ");
 		char[] s1=s.toCharArray();
